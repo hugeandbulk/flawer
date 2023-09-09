@@ -1,2 +1,2 @@
-# flawer
-Flawer, a smsrt polling system.
+# flower
+flower, a smsrt polling system.
